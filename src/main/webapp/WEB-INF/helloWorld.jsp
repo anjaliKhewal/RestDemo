@@ -10,6 +10,6 @@
 
  <h1>My first Rest Web Service call</h1>
  <h3>Your Message : ${msg}</h3>  
-
+	<h6>Also this is the first change after git commit</h6>
 </body>
 </html>
